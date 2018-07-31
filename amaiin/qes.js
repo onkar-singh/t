@@ -102,7 +102,7 @@ sd();
 var qes = {
 no1:{
 qno:"1",
-q:"1What is the mechanical power developed by a DC series motor is maximum?",
+q:"What is the mechanical power developed by a DC series motor is maximum?",
 a:"Back emf is equal to half the applied voltage.",
 b:"Back emf is equal to applied voltage.",
 c:"Back emf is equal to zero.",
@@ -111,7 +111,7 @@ ans:"a"} ,
 
 no2:{
 qno:"2",
-q:"2Eddy current loss will depends on",
+q:"Eddy current loss will depends on",
 a:"Frequency",
 b:"Flux density",
 c:"Thickness",
@@ -120,7 +120,7 @@ ans:"d"} ,
 
 no3:{
 qno:"3",
-q:"3In a dc machine 72 number of coils are used. Find the number of commutator segments required?",
+q:"In a dc machine 72 number of coils are used. Find the number of commutator segments required?",
 a:"36",
 b:"37",
 c:"72",
@@ -129,7 +129,7 @@ ans:"c"} ,
 
 no4:{
 qno:"4",
-q:"4Pointing to a girl in the photograph, Amar said, \"Her mother`s brother is the only son of my mother's father.\" How is the girl`s mother related to Amar ?",
+q:"Pointing to a girl in the photograph, Amar said, \"Her mother`s brother is the only son of my mother's father.\" How is the girl`s mother related to Amar ?",
 a:"Mother",
 b:"Sister",
 c:"Aunt",
@@ -138,7 +138,7 @@ ans:"c"} ,
 
 no5:{
 qno:"5",
-q:"5If white is called blue, blue is called red, red is called yellow, yellow is called green, green is called black, black is called violet and violet is called orange, what would be the colour of human blood ?",
+q:"If white is called blue, blue is called red, red is called yellow, yellow is called green, green is called black, black is called violet and violet is called orange, what would be the colour of human blood ?",
 a:"Red",
 b:"Green",
 c:"Yellow",
@@ -147,7 +147,7 @@ ans:"c"} ,
 
 no6:{
 qno:"6",
-q:"6If the animals which can walk are called swimmers, animals who crawl are called flying, those living in water are called snakes and those which fly in the sky are called hunters, then what will a lizard be called ?",
+q:"If the animals which can walk are called swimmers, animals who crawl are called flying, those living in water are called snakes and those which fly in the sky are called hunters, then what will a lizard be called ?",
 a:"Flying",
 b:"Swimmers",
 c:"Snakes",
